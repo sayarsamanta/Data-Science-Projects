@@ -1,0 +1,8 @@
+Process,Model Name,F1 Scores,Range of F1 Scores,Std Deviation of F1 Scores
+KNN,K-Nearest Neighbour Classification,"[0.67, 0.71, 0.73, 0.75, 0.79]",0.67-0.79,0.0447213595499958
+KNN-N,K-Nearest Neighbour Classification with normalization,"[0.67, 0.71, 0.73, 0.75, 0.79]",0.67-0.79,0.0447213595499958
+SVC,SVC Classification,"[0.74, 0.74, 0.75, 0.77, 0.79]",0.74-0.79,0.021679483388678818
+SVC- RBF,SVC Classification,"[0.71, 0.73, 0.75, 0.76, 0.76]",0.71-0.76,0.021679483388678818
+LR,Logistic Regression,"[0.71, 0.73, 0.75, 0.76, 0.8]",0.71-0.8,0.03391164991562637
+RF,Random Forest,"[0.73, 0.74, 0.74, 0.76, 0.85]",0.73-0.85,0.04929503017546494
+XGB,XGB,"[0.72, 0.73, 0.73, 0.76, 0.82]",0.72-0.82,0.04086563348340509
