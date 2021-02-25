@@ -10,5 +10,6 @@ Repository containing portfolio of data science projects completed by me for aca
 
 	_Tools: scikit-learn, Pandas, Seaborn, Matplotlib, Tableau
 
-
+- ### Machine Learning Projects
+	- [Amazon movie recommendation for user](https://github.com/sayarsamanta/Data-Science-Projects/blob/main/Amazon%20Recommendation/RecommendationExample.ipynb): Building user-based recommendation model for Amazon.The dataset provided contains movie reviews given by Amazon customers. Reviews were given between May 1996 and July 2014.Some of the movies hadn’t been watched and therefore, are not rated by the users. Netflix would like to take this as an opportunity and build a machine learning recommendation algorithm which provides the ratings for each of the users.
 
