@@ -1,5 +1,5 @@
 # Portfolio for Data Science
-Repository containing portfolio of data science projects completed by me for academic (PGP Data Science). Presented in the form of Python Notebooks
+Repository containing portfolio of data science projects completed by me for academic (PGP Data Science) course from Purdue University in collaboration with Simplilearn and IBM. Presented in the form of Python Notebooks.
 
 ## Contents
 
