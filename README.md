@@ -20,7 +20,7 @@ Identify the level of income qualification needed for the families in Latin Amer
 	- [Wikipedia Toxicity](https://github.com/sayarsamanta/Data-Science-Projects/blob/main/Wikipedia%20Toxicity/wikipedia_toxic_comments.ipynb):
 Using NLP and machine learning, make a model to identify toxic comments from the Talk edit pages on Wikipedia. Help identify the words that make a comment toxic.Wikipedia continuously strives to help online discussion become more productive and respectful. We as a data scientist at Wikipedia will help Wikipedia to build a predictive model that identifies toxic comments in the discussion and marks them for cleanup by using NLP and machine learning.
 
-- ### Note: This project is not completed yet.Currently I am working on this project.It will be completed soon.
+Note: This project is not completed yet. Currently I am working on this project. It will be completed soon.
 
 
 	_Tools: scikit-learn, Pandas, Seaborn, Matplotlib, NLTK, Gensim
